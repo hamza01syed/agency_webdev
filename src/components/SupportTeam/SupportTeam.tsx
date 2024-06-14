@@ -1,7 +1,7 @@
 import React from "react";
-import icon1 from "@/../public/ic1.jpg"
-import icon2 from "@/../public/ic2.jpg"
-import supportPic from "@/../public/support2img.jpg"
+import icon1 from "@/../public/ic1.JPG"
+import icon2 from "@/../public/ic2.JPG"
+import supportPic from "@/../public/support2img.JPG"
 import Image from "next/image";
 const SupportTeam = () => {
   return (
