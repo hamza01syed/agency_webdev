@@ -1,12 +1,12 @@
 import React from 'react'
 import SectionHeading from '../SectionHeading/SectionHeading'
 import FeatureCard from './FeatureCard'
-import icon1 from "@/../public/ic5.jpg"
-import icon2 from "@/../public/ic1.jpg"
-import icon3 from "@/../public/ic2.jpg"
-import icon4 from "@/../public/ic3.jpg"
-import icon5 from "@/../public/ic4.jpg"
-import icon6 from "@/../public/ic5.jpg"
+import icon1 from "@/../public/ic5.JPG"
+import icon2 from "@/../public/ic1.JPG"
+import icon3 from "@/../public/ic2.JPG"
+import icon4 from "@/../public/ic3.JPG"
+import icon5 from "@/../public/ic4.JPG"
+import icon6 from "@/../public/ic5.JPG"
 
 
 const Features = () => {
