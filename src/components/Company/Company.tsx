@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import customer from "@/../public/Clients.jpg"
+import customer from "@/../public/Clients.png"
 
 const Company = () => {
   return (
