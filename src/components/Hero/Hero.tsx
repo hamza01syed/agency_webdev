@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="h-[70vh] lg:h-[88vh] md:h-[80-vh] sm:h-[75vh] flex items-center flex-col justify-center ">
       <div className="grid grid-cols-1 lg:grid-cols-5 items-center  mx-auto w-[80%]">
         {/* for text  */}
-        <div className="col-span-2">
+        <div className="col-span-2 flex-1">
           <h1
             data-aos="fade-right"
             className="text-[27px] lg:text-[40px] md:text-[35px] font-bold mb-[1rem] text-black leading-[2.4rem] md:leading-[4rem] "
@@ -39,7 +39,7 @@ const Hero = () => {
         <div
           data-aos="fade-left"
           data-aos-delay="600"
-          className="col-span-2 hidden sm:block"
+          className="col-span-2 hidden sm:block flex-1"
         >
           <Image src={HeroImg} priority alt="hero" />
         </div>
